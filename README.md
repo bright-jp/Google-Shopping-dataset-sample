@@ -2,7 +2,7 @@
 
 <h2>1001件のGoogle Shoppingサンプルデータセット</h2>
 
-![Google Shopping dataset header](https://github.com/luminati-io/Google-Shopping-dataset-sample/blob/main/Google-Shopping-datasets.png)
+![Google Shopping dataset header](https://github.com/bright-jp/Google-Shopping-dataset-sample/blob/main/Google-Shopping-datasets.png)
 
 1000件超のレコードを含むGoogle Shoppingデータセットサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
