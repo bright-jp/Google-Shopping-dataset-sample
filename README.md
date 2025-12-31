@@ -1,58 +1,57 @@
 # # Google Shopping-dataset-samples
 
-<h2>A sample dataset of 1001 Google Shopping</h2>
+<h2>1001件のGoogle Shoppingサンプルデータセット</h2>
 
 ![Google Shopping dataset header](https://github.com/luminati-io/Google-Shopping-dataset-sample/blob/main/Google-Shopping-datasets.png)
 
-A Google Shopping dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
+1000件超のレコードを含むGoogle Shoppingデータセットサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
-<h2>Some of the data points that are included in the Google Shopping dataset:</h2>
+<h2>Google Shoppingデータセットに含まれるデータポイントの一部:</h2>
 
-* ```url```: The URL or link to the product
-* ```product_id```: Unique identifier for the product
-* ```title```: Title or name of the product
-* ```product_description```: Description of the product
-* ```rating```: Average rating of the product
-* ```reviews_count```: Number of ratings or reviews for the product
-* ```images```: Images of the product
-* ```variations```: Product variations
-* ```tags```: Tags associated with the product
-* ```product_details```: Additional details about the product
-* ```amount_of_stars```: Distribution of star ratings
-* ```seller_name```: Name of the seller or vendor
-* ```delivery_price```: Price for delivery
-* ```return_policy```: Details of the return policy
-* ```item_price```: Price of the item
-* ```total_price```: Total price including all costs
-* ```product_specifications```: Specifications of the product
-* ```related_items```: Related items
+* ```url```: 商品へのURLまたはリンク
+* ```product_id```: 商品の一意識別子
+* ```title```: 商品のタイトルまたは名称
+* ```product_description```: 商品の説明
+* ```rating```: 商品の平均評価
+* ```reviews_count```: 商品の評価数またはレビュー数
+* ```images```: 商品画像
+* ```variations```: 商品バリエーション
+* ```tags```: 商品に関連付けられたタグ
+* ```product_details```: 商品に関する追加の詳細
+* ```amount_of_stars```: 星評価の分布
+* ```seller_name```: 販売者またはベンダー名
+* ```delivery_price```: 配送料
+* ```return_policy```: 返品ポリシーの詳細
+* ```item_price```: 商品価格
+* ```total_price```: すべての費用を含む合計価格
+* ```product_specifications```: 商品仕様
+* ```related_items```: 関連商品
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Google Shopping"
-dataset which includes more than <b>14.37K records</b>.
+これは「Google Shopping」データセットから派生したサンプルサブセットであり、元のデータセットには<b>14.37K件超のレコード</b>が含まれています。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じて、ファイルを .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセット配信タイプのオプション: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>1回のみ、毎日、毎週、毎月、四半期ごと、またはカスタム</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント: <b>リクエストに応じて。</b>
 
-<b>[Get the full Google Shopping dataset](https://brightdata.com/products/datasets/google-shopping)</b>.
+<b>[Google Shoppingの完全なデータセットを入手する](https://brightdata.jp/products/datasets/google-shopping)</b>。
 
-<h2>What are the Google Shopping datasets use cases?</h2>
+<h2>Google Shoppingデータセットのユースケースは何ですか？</h2>
 
-<h3>1. Consumer Sentiment</h3>
-Leverage a Google Shopping dataset to understand customer sentiment toward your products. Extract valuable insights to make informed business decisions by analyzing trending categories, popular regional brands, and changes in consumer demand and product popularity.
+<h3>1. 消費者センチメント</h3>
+Google Shoppingデータセットを活用して、顧客の自社商品に対するセンチメントを理解できます。トレンドカテゴリ、地域で人気のブランド、消費者需要や商品人気の変化を分析することで、十分な情報に基づいたビジネス意思決定に役立つ有益なインサイトを抽出できます。
 
-<h3>2. Pricing Optimization</h3>
-Businesses can shape customer purchasing decisions by utilizing insights from a Google Shopping dataset. Analyze factors such as price sensitivity and demand to refine product pricing, maintain competitiveness, and boost revenue and profitability.
+<h3>2. 価格最適化</h3>
+企業はGoogle Shoppingデータセットから得られるインサイトを活用することで、顧客の購買意思決定に影響を与えられます。価格感度や需要などの要因を分析し、商品価格を洗練させ、競争力を維持し、売上と収益性を向上させます。
 
-<h3>3. Product Personalization</h3>
-Analyze a Google Shopping dataset to uncover best-selling products, emerging trends, and underperforming items. Stay competitive by determining which products to stock, optimal stock levels, and the best timing for restocking to maximize profitability.
+<h3>3. 商品のパーソナライゼーション</h3>
+Google Shoppingデータセットを分析して、ベストセラー商品、新たなトレンド、パフォーマンスが低い商品を明らかにできます。収益性を最大化するために、どの商品を在庫として確保すべきか、最適な在庫水準、補充の最適なタイミングを判断し、競争力を維持できます。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、環境および社会的なさまざまな目的を推進する主要な学術学部・研究者、NGOおよびNPOに対して、Bright Dataの<b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b>および<b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b>へのアクセスを提供しています。申請は<b>[こちら](https://brightinitiative.com)</b>から提出できます。
