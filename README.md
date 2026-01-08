@@ -1,4 +1,4 @@
-# # Google Shopping-dataset-samples
+# # Google Shopping データセットサンプル
 
 <h2>1001件のGoogle Shoppingサンプルデータセット</h2>
 
